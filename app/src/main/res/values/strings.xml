@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaProgramDom</string>
+    <string name="door_rigth">Door right</string>
+    <string name="door_left">Door left</string>
+    <string name="window_on_the_roof">window on roof</string>
+    <string name="num_stages">floors</string>
+</resources>
